@@ -24,3 +24,8 @@ h1 {
     font-style: italic;
     color: #999;
 }
+
+.dogPic {
+    height: 100px;
+    width: 100px;
+}
